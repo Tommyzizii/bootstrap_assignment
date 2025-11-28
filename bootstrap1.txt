@@ -1,0 +1,3 @@
+col-sm-6 -> starts on small screens (≥ 576px)
+col-md-6 -> starts on medium screens (≥ 768px)
+col-lg-6 -> starts on large screens (≥ 992px)
